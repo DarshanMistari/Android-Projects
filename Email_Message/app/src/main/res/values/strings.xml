@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Email_Message</string>
+    <string name="title">Email Message</string>
+    <string name="hint">To</string>
+    <string name="sub">Subject</string>
+    <string name="msg">Message</string>
+    <string name="btnSend">Send</string>
+</resources>
