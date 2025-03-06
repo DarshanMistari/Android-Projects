@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Date_Time_Picker</string>
+    <string name="date">Date</string>
+    <string name="txtDate">Date is :</string>
+    <string name="time">Time</string>
+    <string name="txtTime">Time is :</string>
+</resources>
