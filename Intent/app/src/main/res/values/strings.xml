@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="title">Intent</string>
+    <string name="name">Enter Username</string>
+    <string name="mobNo">Enter Mobile Number</string>
+    <string name="send">Send</string>
+    <string name="user">Username :</string>
+    <string name="Num">Mobile Number :</string>
+</resources>
