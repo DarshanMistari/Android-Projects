@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#E6EDA1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:background="#2F645E"
+            android:textColor="@color/black"
+            android:layout_marginTop="30sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/menu"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:background="#F8E00E"
+            android:textColor="@color/black"
+            android:padding="7sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shop"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:background="#ADDB78"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+                <GridLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:rowCount="3"
+                    android:columnCount="3">
+
+                        <ImageView
+                            android:layout_width="141dp"
+                            android:layout_height="127dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_mobile"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="137dp"
+                            android:layout_height="134dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_watch"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="136dp"
+                            android:layout_height="129dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_bag"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="137dp"
+                            android:layout_height="134dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_watch"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="136dp"
+                            android:layout_height="129dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_bag"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="141dp"
+                            android:layout_height="127dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_mobile"
+                            android:layout_marginTop="30sp"/>
+
+
+                        <ImageView
+                            android:layout_width="136dp"
+                            android:layout_height="129dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_bag"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="141dp"
+                            android:layout_height="127dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_mobile"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="137dp"
+                            android:layout_height="134dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_watch"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="141dp"
+                            android:layout_height="127dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_mobile"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="137dp"
+                            android:layout_height="134dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_watch"
+                            android:layout_marginTop="30sp"/>
+
+
+                        <ImageView
+                            android:layout_width="136dp"
+                            android:layout_height="129dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_bag"
+                            android:layout_marginTop="30sp"/>
+
+
+                        <ImageView
+                            android:layout_width="137dp"
+                            android:layout_height="134dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_watch"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="136dp"
+                            android:layout_height="129dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_bag"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="141dp"
+                            android:layout_height="127dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_mobile"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="136dp"
+                            android:layout_height="129dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_bag"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="141dp"
+                            android:layout_height="127dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_mobile"
+                            android:layout_marginTop="30sp"/>
+
+                        <ImageView
+                            android:layout_width="137dp"
+                            android:layout_height="134dp"
+                            android:maxWidth="40dp"
+                            android:minHeight="40dp"
+                            android:padding="10dp"
+                            android:src="@drawable/ic_watch"
+                            android:layout_marginTop="30sp"/>
+
+                </GridLayout>
+
+        </ScrollView>
+
+
+
+</LinearLayout>

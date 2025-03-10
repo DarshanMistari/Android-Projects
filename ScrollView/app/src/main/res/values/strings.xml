@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="title">Flipkart</string>
+    <string name="menu">\t\t\t\t <u>Mobile</u> \t\t\t\t <u>Watch</u> \t\t\t\t <u>Bag</u> \t\t\t\t<u>Shoes</u> \t\t\t\t</string>
+    <string name="shop">Shop Now</string>
+    <string name="btn">Order Now</string>
+
+</resources>
