@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List_Spinner</string>
+    <string name="title">Spinner and ListView</string>
+</resources>
