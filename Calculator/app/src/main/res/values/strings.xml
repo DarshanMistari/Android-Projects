@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title">Calculator</string>
+    <string name="Add">Addition</string>
+    <string name="Sub">Subtraction</string>
+    <string name="Mul">Multiplication</string>
+    <string name="Div">Division</string>
+    <string name="Hint1">Enter First Number</string>
+    <string name="Hint2">Enter Second Number</string>
+</resources>
