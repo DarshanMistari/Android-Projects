@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Call_Dialer</string>
+    <string name="title">Call Dialer</string>
+    <string name="hint">Enter Mobile Number</string>
+    <string name="call">Call</string>
+</resources>
