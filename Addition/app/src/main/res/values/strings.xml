@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Addition</string>
+    <string name="title">Addition of Two Numbers</string>
+    <string name="num1">First Number :</string>
+    <string name="firstNum">Enter First Number</string>
+    <string name="num2">Second Number</string>
+    <string name="secondNum">Enter Second Number</string>
+    <string name="btn">Addition</string>
+    <string name="sum">Addition is :</string>
+</resources>
